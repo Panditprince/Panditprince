@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Panditprince
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...hii
+
+https://github.com/Panditprince/Panditprince/assets/171501517/77694d52-f291-4e74-b229-4bcac2b435c1
+
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+panditprince27383@gmail.com/Panditprince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
